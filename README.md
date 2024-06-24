@@ -28,7 +28,7 @@ COMENCEMOS!!!
 ![instalacion](image-5.png)
 ![instalacion](image-6.png)
 
-6. Ahora abrimos una nueva terminal como administrador, esto para instalar una fuente diferente y personalizar la Shell, para buscar la fuente, con las teclas de las flechas es suficiente, una vez encontrada, le damos enter: 
+6. Ahora abrimos una nueva terminal como administrador, esto para instalar una fuente diferente y personalizar la Shell, para buscar la fuente, con las teclas de las flechas arriba y abajo podrás navegar e instalar la fuente que quieras, si dudas de la fuente que quieres la más utilizada por los desarrolladores es **Fira Code**, una vez encontrada, le damos enter: 
 ![fonts](image-7.png)
 
 7. Una vez instalada la fuente, cerramos todas las terminales y volvemos a abrir y nos dirigimos a valores predeterminados y luego apariencia, ahí elegimos la fuente que hemos instalado como administradores: 
