@@ -35,7 +35,7 @@ COMENCEMOS!!!
 ![config](image-8.png)
 ![fuente](image-9.png)
 
-8. Ahora veamos si hemos instalado Oh My Posh correctamente, si aparece algo como en la imagen, hemos hecho todo bien, en caso contrario regresa al paso 6:
+8. Ahora veamos si hemos instalado Oh My Posh correctamente, si aparece algo como en la imagen, hemos hecho todo bien, en caso contrario regresa al paso 5:
 ![oh-my-posh](image-10.png)
 
 9. Si haz llegado a este paso, ejecutaremos el siguiente comando `oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\jandedobbeleer.omp.json" | Invoke-Expression` con este comando instalamos el tema que por default Oh My Posh tiene:
