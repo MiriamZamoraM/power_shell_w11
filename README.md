@@ -75,7 +75,7 @@ COMENCEMOS!!!
 21. Ahora cerramos todas las ventanas de la terminal y volvemos a abrir y tu terminal se verá como la haz personalizado bajo tus preferencias: 
 ![terminal-final](image-23.png)
 
-Espero que este tutorial te sirva, y si fue funcional, me serviriía que lo destaques con una estrella:
+Espero que este tutorial te sirva, y si fue funcional, me serviría que lo destaques con una estrella:
 ![estrella](image-24.png)
 
 ---
