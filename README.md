@@ -80,4 +80,4 @@ Espero que este tutorial te sirva, y si fue funcional, me serviría que lo desta
 
 ---
 ### Creador
-Tutorial hecho con ❤️ por [Miriam Zamora Morales](https://github.com/MiriamZamoraM). Siempre abierto a colaboraciones, nuevas ideas y retos.
+Tutorial hecho con ❤️ por [Miriam Zamora Morales](https://github.com/MiriamZamoraM). Siempre abierta a colaboraciones, nuevas ideas y retos.
